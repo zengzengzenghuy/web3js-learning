@@ -1,0 +1,26 @@
+{
+  "name": "web3js-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengzengzenghuy/web3js-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengzengzenghuy/web3js-learning/issues"
+  },
+  "homepage": "https://github.com/zengzengzenghuy/web3js-learning#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.14-fixed",
+    "web3": "^1.7.3"
+  }
+}
