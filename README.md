@@ -16,5 +16,6 @@
 
 ## Scripts
 
-1. **index.js**: deploy script
+1. **index.js**: Deploy and interact
+2. **compiler.js**: compile contract
 
